@@ -1,0 +1,17 @@
+.banner {
+height: 40%;
+color: white;
+padding: 200px;
+background-size: cover;
+}
+
+.green-btn {
+  color: white;
+  background-color: #1EDC88;
+  padding: 15px 30px;
+  border-radius: 25px;
+}
+
+.banner p {
+margin: 20px 0;
+}

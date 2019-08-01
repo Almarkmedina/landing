@@ -1,0 +1,28 @@
+.footer {
+  background: #2C2B2B;
+  list-style: none;
+  text-align: center;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.icons {
+  color: #1EDC88;
+  font-size: 30px;
+  padding: 0 5px;
+}
+
+.list-inline {
+  list-style: : none;
+}
+.list-inline li {
+  display: inline-block;
+}
+
+.footer p {
+  color: grey;
+}
+
+.heart {
+  color: red;
+}
